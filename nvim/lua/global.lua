@@ -104,11 +104,11 @@ M.mason = {
     "delve",
     "eslint_d",
     "gopls",
-    "lua_ls",
     "prettier",
+    "prettierd",
     "js-debug-adapter",
     "stylua",
-    "vtsls",
+    "typescript-language-server",
   },
 }
 
